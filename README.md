@@ -14,8 +14,12 @@ Hugging Face Transformers: Used for generating embeddings and fine-tuning models
 FAISS: For efficient vector search and retrieval of information from embeddings.
 Llama-2: Transformer model used to generate accurate responses based on retrieved data.
 Hugging Face Spaces: For deployment, enabling easy access to the chatbot via a web interface.
-![image](https://github.com/user-attachments/assets/1d187266-92d7-4a0c-b44e-39accfa81ad4)
+
 
 ![image](https://github.com/user-attachments/assets/433dc5b2-0d75-4f03-8b59-7505fb344a18)
 
 ![image](https://github.com/user-attachments/assets/76287be7-4894-4d20-8348-26d146ac8f19)
+
+![Screenshot 2024-10-18 210205](https://github.com/user-attachments/assets/6a7538a0-b716-4239-bd98-9072d15b8645)
+
+![Screenshot 2024-10-18 205850](https://github.com/user-attachments/assets/0c322a5d-9020-4160-9abf-411055955311)
