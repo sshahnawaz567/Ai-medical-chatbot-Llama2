@@ -1,14 +1,15 @@
-Medical Chatbot with LangChain, Hugging Face, and FAISS
-Project Description
+# AI - Medical Chatbot with LangChain, Hugging Face, and FAISS
+
+# Project Description
 This project involves the development of a medical chatbot designed to provide context-specific answers from PDF documents. The chatbot leverages state-of-the-art technologies like LangChain, Hugging Face, FAISS, and transformer-based embeddings to build a robust and efficient retrieval-based Question Answering (QA) system. The chatbot uses Llama-2 for generating accurate, context-relevant responses.
 
-Key Features:
+# Key Features:
 PDF Document Processing: Retrieves information from medical PDFs by leveraging the LangChain framework and Hugging Face for context-specific responses.
 FAISS Vector Database: Embedding-based search engine to store and retrieve document data efficiently.
 Retrieval-Based QA Pipeline: Integrated with Llama-2 for generating accurate and context-aware answers.
 Deployment: The application is deployed on Hugging Face Spaces, enabling seamless user interaction via a web interface.
 
-Technologies Used:
+# Technologies Used:
 LangChain: For managing document processing and interaction between different components.
 Hugging Face Transformers: Used for generating embeddings and fine-tuning models for context-aware answers.
 FAISS: For efficient vector search and retrieval of information from embeddings.
