@@ -16,7 +16,8 @@ Llama-2: Transformer model used to generate accurate responses based on retrieve
 Hugging Face Spaces: For deployment, enabling easy access to the chatbot via a web interface.
 
 
-![image](https://github.com/user-attachments/assets/433dc5b2-0d75-4f03-8b59-7505fb344a18)
+![image](https://github.com/user-attachments/assets/dd455df4-ba60-4033-90b5-2aa5cbe75188)
+
 
 ![image](https://github.com/user-attachments/assets/76287be7-4894-4d20-8348-26d146ac8f19)
 
